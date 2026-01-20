@@ -46,3 +46,17 @@ Install dependencies:
 pip install PyQt5
 
 
+
+## Disclaimer
+
+WordMake is intended for **educational and security testing purposes only**.  
+Do not use this tool for illegal activities, unauthorized access, or any malicious actions.
+
+The user assumes all responsibility and risk for using this tool.  
+The author is not responsible for any misuse or damage caused by WordMake.
+
+
+
+
+
+
