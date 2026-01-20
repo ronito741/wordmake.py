@@ -1,0 +1,36 @@
+# Installation Guide — WordMake (Single File)
+
+This is a simple one-file installation guide for **WordMake**.
+
+---
+
+## 📌 Requirements
+
+- Python 3.8+
+- PyQt5
+
+---
+
+## ✅ Linux (Ubuntu / Debian)
+
+```bash
+sudo apt updatesudo pacman -S python python-pip
+pip3 install PyQt5
+git clone https://github.com/your-repo/wordmake.git
+cd wordmake
+python3 wordmake.py
+
+
+# Installation
+
+## Requirements
+- Python 3.8+
+- PyQt5
+
+## Install PyQt5
+```bash
+pip install PyQt5
+
+
+
+
