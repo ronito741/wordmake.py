@@ -44,3 +44,5 @@ Install dependencies:
 
 ```bash
 pip install PyQt5
+
+
