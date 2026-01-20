@@ -44,6 +44,47 @@ Install dependencies:
 
 ```bash
 pip install PyQt5
+## Supported Platforms & Installation (wordmake.py)
+
+WordMake (wordmake.py) supports any OS that can run **Python 3.8+** and **PyQt5**.
+
+---
+
+# Linux (All Major Distros)
+
+### Ubuntu / Debian
+```bash
+
+
+sudo apt update
+sudo apt install python3 python3-pip -y
+pip3 install PyQt5sudo dnf install python3 python3-pip -y
+pip3 install PyQt5
+python3 wordmake.py
+
+sudo dnf install python3 python3-pip -y
+pip3 install PyQt5
+python3 wordmake.py
+
+
+sudo pacman -Syu
+sudo pacman -S python python-pip -y
+pip3 install PyQt5
+python3 wordmake.py
+
+
+sudo zypper refresh
+sudo zypper install python3 python3-pip -y
+pip3 install PyQt5
+python3 wordmake.py
+
+
+
+
+
+
+
+
 
 
 
