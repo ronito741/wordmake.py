@@ -62,22 +62,6 @@ pip3 install PyQt5sudo dnf install python3 python3-pip -y
 pip3 install PyQt5
 python3 wordmake.py
 
-sudo dnf install python3 python3-pip -y
-pip3 install PyQt5
-python3 wordmake.py
-
-
-sudo pacman -Syu
-sudo pacman -S python python-pip -y
-pip3 install PyQt5
-python3 wordmake.py
-
-
-sudo zypper refresh
-sudo zypper install python3 python3-pip -y
-pip3 install PyQt5
-python3 wordmake.py
-
 
 
 
